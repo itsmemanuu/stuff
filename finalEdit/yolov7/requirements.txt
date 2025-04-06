@@ -1,0 +1,4 @@
+tensorboard
+seaborn
+pandas
+thop
